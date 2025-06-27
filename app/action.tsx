@@ -13,7 +13,6 @@ import Education from "@/components/llm/education";
 import Certifications from "@/components/llm/certifications";
 import Achievements from "@/components/llm/achievements";
 import CardComponent from "@/components/3d-card-components";
-import { GoogleGenAI } from "@google/genai";
 import Experience from "@/components/llm/experience";
 
 const askedQuestions = new Map();

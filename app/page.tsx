@@ -4,7 +4,7 @@ import ChatScrollAnchor from "@/components/chat-scroll-anchor";
 import { useEnterSubmit } from "@/components/use-enter-submit";
 import { type SubmitHandler, useForm } from "react-hook-form";
 import TextAreaAutoSize from "react-textarea-autosize";
-import { Mic, PlusIcon } from "lucide-react";
+import { PlusIcon } from "lucide-react";
 import { z } from "zod";
 import { useActions, useUIState } from "ai/rsc";
 import { UserMessage } from "@/components/message";
