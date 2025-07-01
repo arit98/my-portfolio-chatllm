@@ -33,7 +33,7 @@ const Experience = () => {
 
   return (
     <div className="max-h-full w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0">
-      <div className="max-w-6xl md:mt-32 md:mb-0 mb-32 mx-auto p-4 w-full flex flex-col md:gap-0 gap-8 items-center justify-center">
+      <div className="max-w-6xl md:mt-32 md:mb-0 mb-32 mx-auto p-4 w-full flex flex-col md:gap-0 gap-8 items-center justify-center space-x-4">
         <TextGenerate words="Experience" />
         <LinkPreviewComponent achievements={experience} />
       </div>
