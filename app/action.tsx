@@ -62,7 +62,7 @@ export const sendMessage = async (
           If the user wants the experience, call \`get_experience_component\` to show you the component.
           If the user wants the achievements, call \`get_achievements_component\` to show you the component.
           If the user wants the hire, call \`get_hire_component\` to show you the component.
-					you should chat with the user and answer any questions they may have.
+					you should chat with the user and answer any questions they may have. If someone need to see that component don't put any messages like "are you sure" or something instead of simple show that component.
 					`,
         toolInvocations: [],
       },

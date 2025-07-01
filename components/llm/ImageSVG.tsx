@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import Img from "@/assets/profile.png";
+import Img from "@/assets/profile2.png";
 
 const ImageSVG = () => {
   return (

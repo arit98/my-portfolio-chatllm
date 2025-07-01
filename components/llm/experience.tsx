@@ -1,5 +1,5 @@
 "use client";
-import { LinkPreviewComponent } from "@/components/link-preview-component";
+import { LinkPreviewComponent } from "@/components/ui/link-preview-component";
 import { TextGenerate } from "@/components/text-generate";
 import React from "react";
 
@@ -9,7 +9,7 @@ const Experience = () => {
       title: "CodeSauna Technologies",
       link: "https://nvelop.ai/",
       description:
-        "11 months paid internship with AI & Full Stack Domain(NextJS, Typescript), Worked with many things like Vercel Generative UI, Azure AI, Generative Pre Training, Testing(Jest, Cypress) Presently working...",
+        "1 year paid internship with AI & Full Stack Domain(NextJS, Typescript), Worked with many things like Vercel Generative UI, Azure AI, Generative Pre Training, Testing(Jest, Cypress) Presently working...",
     },
     {
       title: "CodeClause",
@@ -21,7 +21,13 @@ const Experience = () => {
       title: "The Monkeys",
       link: "https://monkeys.com.co/feed",
       description:
-        "6 months non paid internship with Web Development Domain(ReactJS). UI Development and API Integration",
+        "6 months unpaid internship with Web Development Domain(ReactJS). UI Development and API Integration",
+    },
+    {
+      title: "Sanjeevani",
+      link: "http://localhost:3000/not-found",
+      description:
+        "I have 1 year of hands-on experience in the Web Development domain (ReactJS), focusing on UI development, API integration, and backend development. This was a startup project that I worked on while completing my B.Tech. Unfortunately, our investor backed out, and we were unable to complete the project. The project is not live due to confidentiality reasons.",
     },
   ];
 

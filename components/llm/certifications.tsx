@@ -1,4 +1,4 @@
-import { LinkPreviewComponent } from "@/components/link-preview-component";
+import { LinkPreviewComponent } from "@/components/ui/link-preview-component_";
 import { TextGenerate } from "@/components/text-generate";
 import React from "react";
 

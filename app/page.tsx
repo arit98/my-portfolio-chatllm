@@ -72,7 +72,7 @@ export default function Home() {
       <form
         ref={formRef}
         onSubmit={form.handleSubmit(onSubmit)}
-        className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 fixed inset-x-0 bottom-0 w-full rounded-t-lg"
+        className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 fixed inset-x-0 bottom-0 w-full rounded-t-lg z-50"
       >
         <div className="flex justify-between items-center mb-3">
           <button
