@@ -46,7 +46,7 @@ export const Profile = () => {
                         </p>
                         <div className="mt-8 w-[300px] flex items-center justify-between">
                             <Button className={`bg-transparent border-2 ${hover ? "border-blue-500" : "dark:border-white/[0.2]"}`}>
-                                <Link className="text-blue-500 font-semibold" target="_blank" href={"https://imagekit.io/public/share/gleyvfl6b/282425bcd052ba0599eead74ec2d275556c0aebf1f9e2ce0011f8ce10ae0c0b7d2d7dfc616c30126cb75eee3c4905e4c739ba19762783eab47c3b30017393a57383c0686608a37ed76d2b2a2e9682cf7"}>
+                                <Link className="text-blue-500 font-semibold" target="_blank" href={"https://imagekit.io/public/share/gleyvfl6b/282425bcd052ba0599eead74ec2d275556c0aebf1f9e2ce0011f8ce10ae0c0b7297f5bd4bd82b4d573f051cae5076dd355c3200cf9f78521797c6943c02e2b29bec5125f7cef6075d0907b838cf21054"}>
                                     <Typewriter text="Download Resume" speed={50} />
                                 </Link>
                             </Button>
