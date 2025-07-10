@@ -36,7 +36,6 @@ const Certifications = () => {
         <TextGenerate words="Certification" />
         <LinkPreviewComponent style="text-xl" achievements={certificates} />
       </div>
-      <div className="h-24"></div>
     </div>
   );
 };

@@ -21,7 +21,7 @@ const ImageSVG = () => {
             opacity: 1,
             transition: { duration: 0.4, delay: 2.4, ease: "easeInOut" },
           }}
-          className="absolute w-[288px] h-[288px] xl:w-[288px] xl:h-[288px]"
+          className="absolute md:w-[288px] w-[188px] md:h-[288px] h-[188px] xl:w-[288px] xl:h-[288px]"
         >
           <Image
             src={Img.src}
@@ -34,7 +34,7 @@ const ImageSVG = () => {
         </motion.div>
         {/* svg */}
         <motion.svg
-          className="w-[290px] h-[290px] xl:w-[290px] xl:h-[290px]"
+          className="md:w-[290px] w-[190px] md:h-[290px] h-[190px] xl:w-[290px] xl:h-[290px]"
           fill="transparent"
           viewBox="0 0 506 506"
           xmlns="http://www.w3.org/2000/svg"
