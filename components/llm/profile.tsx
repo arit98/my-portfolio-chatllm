@@ -44,7 +44,7 @@ export const Profile = () => {
                 speed={30}
               />
             </p>
-            <div className="mt-8 md:w-[300px] flex items-center justify-between gap-2">
+            <div className="mt-8 md:w-[300px] flex items-center justify-between gap-">
               <Button
                 className={`bg-transparent border-2 md:w-48 w-32 md:text-sm text-xs p-4 ${
                   hover ? "border-blue-500" : "dark:border-white/[0.2]"
