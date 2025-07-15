@@ -54,7 +54,7 @@ export const Profile = () => {
                   className="text-blue-500 font-semibold"
                   target="_blank"
                   href={
-                    "https://imagekit.io/public/share/gleyvfl6b/282425bcd052ba0599eead74ec2d275556c0aebf1f9e2ce0011f8ce10ae0c0b7d2d7dfc616c30126cb75eee3c4905e4c739ba19762783eab47c3b30017393a57383c0686608a37ed76d2b2a2e9682cf7"
+                    "https://download1584.mediafire.com/qn7tbfoqzl9gA0_pmWApKDZp7f59X43iiqDARx0N9WocaVmfCuMH-EYxSxSAR9VZCiLc7L84PtPaGTwz2xC6f945Bi_tdQAYuLd4gjE4J_DLDhniUdv7kRGMJ9NYUNl35ECDad7XnizomlUw9wNfFYMd4wqFocBxOAOiWx40rIUzhkKy/6m6wknwpboer8ck/Aritra_New_Resume.pdf"
                   }
                 >
                   <Typewriter text="Download Resume" speed={50} />
