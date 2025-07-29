@@ -54,7 +54,7 @@ export const Profile = () => {
                   className="text-blue-500 font-semibold"
                   target="_blank"
                   href={
-                    "https://download1584.mediafire.com/qn7tbfoqzl9gA0_pmWApKDZp7f59X43iiqDARx0N9WocaVmfCuMH-EYxSxSAR9VZCiLc7L84PtPaGTwz2xC6f945Bi_tdQAYuLd4gjE4J_DLDhniUdv7kRGMJ9NYUNl35ECDad7XnizomlUw9wNfFYMd4wqFocBxOAOiWx40rIUzhkKy/6m6wknwpboer8ck/Aritra_New_Resume.pdf"
+                    "https://www.mediafire.com/file/adtagrh87fvou9a/Aritra_New_Resume.pdf/file"
                   }
                 >
                   <Typewriter text="Download Resume" speed={50} />
