@@ -45,7 +45,7 @@ export const sendMessage = async (
   ]);
 
   const reply = await streamUI({
-    model: google("gemini-2.5-flash-lite-preview-06-17"),
+    model: google("gemini-2.5-flash"),
     messages: [
       {
         id: 0,
